@@ -10,14 +10,12 @@
 * 在Layout中的onLayout方法中**调用子View的layout()**
 
 <br/>
-<br/>
-<br/>
+
 
 *再复杂的自定义View都是这样从最简单的形式，不断增加代码，迭代出来的* 
 
 <br/>
-<br/>
-<br/>
+
 
 最简单的自定义ViewGroup：
 ```
@@ -70,7 +68,7 @@ public class FlowLayout extends ViewGroup {
 ```
 
 <br/>
-<br/>
+
 
 ## 在最简单的实现下，我们可以考虑更多，当然代码也就更多，如：
 * 处理子View不可见的情况
@@ -78,7 +76,7 @@ public class FlowLayout extends ViewGroup {
 * 添加对layout_margin的支持
 
 <br/>
-<br/>
+
 
 上述这些我也都实现了，但还有一个我没有去弄，*对gravity的支持（因为其非必需就暂时不加，我现有其它事）*，如果你有兴趣完成它，可以fork，弄好了pull request。
 

@@ -7,8 +7,6 @@
 
     <com.xuebinduan.flowlayout.FlowLayout
         android:layout_width="match_parent"
-        android:layout_centerInParent="true"
-        android:layout_marginLeft="100dp"
         android:layout_height="wrap_content">
 
         <TextView

@@ -5,16 +5,6 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.view.ViewGroup;
 
-/**
- * 标题：最简单的自定义ViewGroup
- * <p>
- * 流程：就是在onMeasured调用measureChild()，然后在layout调用子View的layout()
- * <p>
- * 加一个gravity属性,center|center_horizontal|center_vertical
- * 处理measure只支持EXACTLY的问题
- * 处理margin
- * 处理子View不可见的情况
- */
 public class FlowLayout extends ViewGroup {
 
     public FlowLayout(Context context) {

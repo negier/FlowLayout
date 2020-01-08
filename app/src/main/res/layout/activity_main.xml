@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.xuebinduan.flowlayout.FlowLayout
+        android:layout_width="match_parent"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="100dp"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_red_round_bg"
+            android:text="你好你好你好"
+            android:padding="6dp"
+            android:layout_margin="3dp"
+            android:textColor="#fff" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_red_round_bg"
+            android:text="祝你"
+            android:padding="6dp"
+            android:layout_margin="3dp"
+            android:textColor="#fff" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_red_round_bg"
+            android:text="身体健康"
+            android:padding="6dp"
+            android:layout_margin="3dp"
+            android:textColor="#fff" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_red_round_bg"
+            android:text="万事如意"
+            android:padding="6dp"
+            android:layout_margin="3dp"
+            android:textColor="#fff" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_red_round_bg"
+            android:text="有充沛的知识"
+            android:padding="6dp"
+            android:layout_margin="3dp"
+            android:textColor="#fff" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_red_round_bg"
+            android:text="家庭美满"
+            android:padding="6dp"
+            android:layout_margin="3dp"
+            android:textColor="#fff" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_red_round_bg"
+            android:text="Happy"
+            android:padding="6dp"
+            android:layout_margin="3dp"
+            android:textColor="#fff" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_red_round_bg"
+            android:text="Friend"
+            android:padding="6dp"
+            android:layout_margin="3dp"
+            android:textColor="#fff" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_red_round_bg"
+            android:text="万事如意"
+            android:padding="6dp"
+            android:layout_margin="3dp"
+            android:textColor="#fff" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_red_round_bg"
+            android:text="有充沛的知识"
+            android:padding="6dp"
+            android:layout_margin="3dp"
+            android:textColor="#fff" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_red_round_bg"
+            android:text="家庭美满"
+            android:padding="6dp"
+            android:layout_margin="3dp"
+            android:textColor="#fff" />
+
+    </com.xuebinduan.flowlayout.FlowLayout>
+
+</RelativeLayout>

@@ -1,5 +1,8 @@
 # FlowLayout
 子View们的宽度加起来超过一行，会自动换行显示。
+
+**有谷歌官方实现，实际项目开发请用![谷歌FlexLayout](https://github.com/google/flexbox-layout)**
+
 <br/>
 
 ![](https://github.com/negier/FlowLayout/blob/master/screenshot/flowlayout.png)
@@ -78,7 +81,7 @@ public class FlowLayout extends ViewGroup {
 <br/>
 
 
-上述这些我也都实现了，但还有一个我没有去弄，*对gravity的支持（因为其非必需就暂时不加，我现有其它事）*，如果你有兴趣完成它，可以fork，弄好了pull request。
+上述这些我也都实现了
 
 <br/>
 

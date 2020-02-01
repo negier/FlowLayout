@@ -1,7 +1,7 @@
 # FlowLayout
 子View们的宽度加起来超过一行，会自动换行显示。
 
-**有谷歌官方实现，实际项目开发请用![谷歌FlexLayout](https://github.com/google/flexbox-layout)**
+**有谷歌官方实现，实际项目开发请用[谷歌FlexLayout](https://github.com/google/flexbox-layout)**
 
 <br/>
 
